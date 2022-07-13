@@ -6,6 +6,6 @@
         public string FirstName { get; set; }=string.Empty;
         public string LastName { get; set; }=string.Empty ;
         public int Age { get; set; }
-        public int DrivingLicence { get; set; }
+        public int DrivingLicenceNo { get; set; }
     }
 }

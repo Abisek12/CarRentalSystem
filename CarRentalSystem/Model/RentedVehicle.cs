@@ -2,6 +2,7 @@
 {
     public class RentedVehicle
     {
+        public int RentedId { get; set; }
         public int VehicleId { get; set; }
         public int UserId { get; set; }
         public int Millage { get; set; }  
